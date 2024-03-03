@@ -1,0 +1,12 @@
+13:56.2,Error 1: Null values in column 'ClaimID'
+13:56.3,Error 1: Null values in column 'ClaimType'
+13:56.4,Error 1: Null values in column 'ClaimAmount'
+13:57.1,Error 2: Ambiguous data
+13:57.1,Error 3: Policy type associated with policy number doesn't match the claim type
+13:57.2,Error 4: Claim amount is more than assured amount
+14:23.4,Error 1: Null values in column 'ClaimID'
+14:23.5,Error 1: Null values in column 'ClaimType'
+14:23.6,Error 1: Null values in column 'ClaimAmount'
+14:24.3,Error 2: Ambiguous data
+14:24.4,Error 3: Policy type associated with policy number doesn't match the claim type
+14:24.4,Error 4: Claim amount is more than assured amount
